@@ -1,3 +1,15 @@
+
+# วิธีใช้งาน
+
+**NodeJS**
+`node index.js input.txt`
+
+**PHP**
+ตัวนี้ผมใช้ xampp แล้วเอาไฟล์ไว้ที่เดียวกัน หากต้องการแก้ Input ให้เอา Input ใส่ไว้ในไฟล์ input.txt
+
+**C#**
+ตัวนี้เป็นตัวเดียวที่ลองเขียนแบบ Windows app โดยใช้ .Net 4.5 ครับ สามารถเข้าไปที่ \str2int\str2int\bin\Release\ แล้วใช้โปรแกรม str2int.exe ได้เลยครับ โดยวิธีใช้จะเป็นการพิมพ์ Input ลงไปใน textbox พอกดปุ่มก็จะแสดงผลลัพธ์ออกมาครับ (ผลลัพธ์นี้แสดงผลเป็น String ก็จริง แต่หากดูใน โค้ดจะเห็นว่า ผมทำคำนวณในรูปแบบ Integer ครับ)
+
 # string2int Challenge
 
 For anyone who accept this challenge, you have to write the program in any language that can retrieve mixed both numerical and alphabetical character and return only the numerical value in interger format.
