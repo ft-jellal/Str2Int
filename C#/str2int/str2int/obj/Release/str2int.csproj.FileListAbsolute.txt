@@ -1,0 +1,9 @@
+C:\Users\guru-user-01\source\repos\str2int\str2int\bin\Release\str2int.exe.config
+C:\Users\guru-user-01\source\repos\str2int\str2int\bin\Release\str2int.exe
+C:\Users\guru-user-01\source\repos\str2int\str2int\bin\Release\str2int.pdb
+C:\Users\guru-user-01\source\repos\str2int\str2int\obj\Release\str2int.Properties.Resources.resources
+C:\Users\guru-user-01\source\repos\str2int\str2int\obj\Release\str2int.Str2Int.resources
+C:\Users\guru-user-01\source\repos\str2int\str2int\obj\Release\str2int.csproj.GenerateResource.cache
+C:\Users\guru-user-01\source\repos\str2int\str2int\obj\Release\str2int.csproj.CoreCompileInputs.cache
+C:\Users\guru-user-01\source\repos\str2int\str2int\obj\Release\str2int.exe
+C:\Users\guru-user-01\source\repos\str2int\str2int\obj\Release\str2int.pdb
